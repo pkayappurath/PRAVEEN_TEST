@@ -2,3 +2,5 @@ This file has some more changes added to it.
 
 select * from nstrument
 select * from instrument_polpot
+
+select * from price
