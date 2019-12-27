@@ -1,2 +1,6 @@
 this is my third file. i am going to make some changes to this file .iam making more changes to it.
 there is something new added
+
+select * from instrument
+select * from instrument_polpot
+select * from price

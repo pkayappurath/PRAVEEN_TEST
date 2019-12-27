@@ -2,8 +2,9 @@ This file has some more changes added to it.
 
 select * from nstrument
 select * from instrument_polpot
-
 select * from price
+select * from price_history
 
-select * from instrument_identification
+
+
 
