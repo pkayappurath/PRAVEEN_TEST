@@ -4,3 +4,6 @@ select * from nstrument
 select * from instrument_polpot
 
 select * from price
+
+select * from instrument_identification
+
