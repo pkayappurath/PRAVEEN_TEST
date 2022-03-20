@@ -1,9 +1,7 @@
 This file has some more changes added to it. 
 
 select * from instrument;
-select * from instrument_polpot;
-select count(1) from price;
-select * from price_history;
+
 
 
 
